@@ -22,3 +22,8 @@ Make your new tab fancy!
 4. '압축해제된 확장 프로그램을 로드합니다.' 클릭
 5. 압축 해제했던 폴더 선택
 6. 즐기기
+
+---
+
+## Preview
+![스크린샷 2025-02-11 181623](https://github.com/user-attachments/assets/ce275063-db89-46d5-889e-339204d30211)
