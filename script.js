@@ -23,6 +23,10 @@ function onClick(site) {
             location.href = "https://github.com";
             break;
         }
+        case "chatgpt": {
+            location.href = "https://chatgpt.com";
+            break;
+        }
     }
 
     console.log(site)
